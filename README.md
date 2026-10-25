@@ -33,13 +33,7 @@ Website ini menggunakan desain **monokrom premium** dengan estetika teknikal/eng
 
 ## 📸 Tangkapan Layar
 
-<!-- Untuk menambahkan tangkapan layar:
-     1. Ambil screenshot website, simpan di root folder (misal: screenshot.png)
-     2. Uncomment baris di bawah dan sesuaikan nama filenya
--->
-<!-- ![Hero Section](screenshot.png) -->
-
-> **Catatan:** Tangkapan layar akan ditambahkan setelah website di-deploy.
+![Hero Section](assets/img/screenshot_full.png)
 
 ---
 
